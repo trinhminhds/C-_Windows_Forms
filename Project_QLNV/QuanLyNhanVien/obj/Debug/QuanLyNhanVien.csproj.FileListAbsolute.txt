@@ -1,0 +1,15 @@
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\bin\Debug\DatabaseQLNV.mdf
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\bin\Debug\DatabaseQLNV_log.ldf
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.DangKy.resources
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.DangNhap.resources
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.FormHome.resources
+D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.QuenMatKhau.resources
