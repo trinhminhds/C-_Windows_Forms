@@ -45,7 +45,15 @@ namespace QuanLyNhanVien
             string hoTen = this.textBoxHOTEN.Text;
             string gt = (radioButtonNam.Checked ? radioButtonNam.Text : radioButtonNu.Text);
             DateTime ngaySinh = this.dateTimePickerNgaySinh.Value;
-            int luong = this.textBoxLuong.TextLength;
+            if (int.TryParse(this.textBoxLuong.Text, out int luong))
+            {
+                // Nếu chuỗi có thể chuyển đổi thành số nguyên, thì luong sẽ được gán giá trị tương ứng
+            }
+            else
+            {
+                // Xử lý trường hợp không thể chuyển đổi được chuỗi thành số nguyên
+                MessageBox.Show("Lương không hợp lệ. Vui lòng nhập một số nguyên.");
+            }
             string maph = this.textBoxMaph.Text;
             string sdt = this.textBoxSDT.Text;
             DateTime ngayBC = this.dateTimePickerNgayBC.Value;
@@ -73,7 +81,15 @@ namespace QuanLyNhanVien
             string hoTen = this.textBoxHOTEN.Text;
             string gt = (radioButtonNam.Checked ? radioButtonNam.Text : radioButtonNu.Text);
             DateTime ngaySinh = this.dateTimePickerNgaySinh.Value;
-            int luong = this.textBoxLuong.TextLength;
+            if (int.TryParse(this.textBoxLuong.Text, out int luong))
+            {
+                // Nếu chuỗi có thể chuyển đổi thành số nguyên, thì luong sẽ được gán giá trị tương ứng
+            }
+            else
+            {
+                // Xử lý trường hợp không thể chuyển đổi được chuỗi thành số nguyên
+                MessageBox.Show("Lương không hợp lệ. Vui lòng nhập một số nguyên.");
+            }
             string maph = this.textBoxMaph.Text;
             string sdt = this.textBoxSDT.Text;
             DateTime ngayBC = this.dateTimePickerNgayBC.Value;
@@ -139,6 +155,11 @@ namespace QuanLyNhanVien
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void textBoxLuong_TextChanged(object sender, EventArgs e)
         {
 
         }

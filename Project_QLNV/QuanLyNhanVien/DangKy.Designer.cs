@@ -39,7 +39,7 @@
             this.textBox_xacNhanMatKhau = new System.Windows.Forms.TextBox();
             this.textBox_email = new System.Windows.Forms.TextBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.textBox_matKhauThu2 = new System.Windows.Forms.TextBox();
+            this.textBox_sdt = new System.Windows.Forms.TextBox();
             this.label_mkt2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -146,14 +146,15 @@
             this.pictureBox1.TabIndex = 10;
             this.pictureBox1.TabStop = false;
             // 
-            // textBox_matKhauThu2
+            // textBox_sdt
             // 
-            this.textBox_matKhauThu2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox_matKhauThu2.Location = new System.Drawing.Point(311, 529);
-            this.textBox_matKhauThu2.Multiline = true;
-            this.textBox_matKhauThu2.Name = "textBox_matKhauThu2";
-            this.textBox_matKhauThu2.Size = new System.Drawing.Size(366, 36);
-            this.textBox_matKhauThu2.TabIndex = 12;
+            this.textBox_sdt.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox_sdt.Location = new System.Drawing.Point(311, 529);
+            this.textBox_sdt.Multiline = true;
+            this.textBox_sdt.Name = "textBox_sdt";
+            this.textBox_sdt.Size = new System.Drawing.Size(366, 36);
+            this.textBox_sdt.TabIndex = 12;
+            this.textBox_sdt.TextChanged += new System.EventHandler(this.textBox_matKhauThu2_TextChanged);
             // 
             // label_mkt2
             // 
@@ -161,7 +162,7 @@
             this.label_mkt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_mkt2.Location = new System.Drawing.Point(33, 529);
             this.label_mkt2.Name = "label_mkt2";
-            this.label_mkt2.Size = new System.Drawing.Size(196, 31);
+            this.label_mkt2.Size = new System.Drawing.Size(157, 25);
             this.label_mkt2.TabIndex = 11;
             this.label_mkt2.Text = "Mật thẩu thứ 2:";
             // 
@@ -170,7 +171,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(798, 818);
-            this.Controls.Add(this.textBox_matKhauThu2);
+            this.Controls.Add(this.textBox_sdt);
             this.Controls.Add(this.label_mkt2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.textBox_email);
@@ -201,7 +202,7 @@
         private System.Windows.Forms.TextBox textBox_xacNhanMatKhau;
         private System.Windows.Forms.TextBox textBox_email;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.TextBox textBox_matKhauThu2;
+        private System.Windows.Forms.TextBox textBox_sdt;
         private System.Windows.Forms.Label label_mkt2;
     }
 }

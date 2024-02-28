@@ -244,6 +244,7 @@
             this.textBoxLuong.Name = "textBoxLuong";
             this.textBoxLuong.Size = new System.Drawing.Size(231, 30);
             this.textBoxLuong.TabIndex = 19;
+            this.textBoxLuong.TextChanged += new System.EventHandler(this.textBoxLuong_TextChanged);
             // 
             // textBoxMaph
             // 
