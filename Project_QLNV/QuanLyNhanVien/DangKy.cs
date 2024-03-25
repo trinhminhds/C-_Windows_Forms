@@ -103,10 +103,14 @@ namespace QuanLyNhanVien
                 MessageBox.Show("Tên tài khoản này đã được đăng kí, vui lòng đăng kí tên tài khoản khác!", "Thông Báo");
             }
 
+        }
 
-
-
-
+        private void dk_dangNhap_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            DangNhap dangNhap = new DangNhap();
+            dangNhap.ShowDialog();
+            this.Close();
 
         }
 
@@ -114,5 +118,47 @@ namespace QuanLyNhanVien
         {
 
         }
+
+        private void DangKy_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            textBox_matKhau.PasswordChar = dk_hienmatkhau.Checked ? '\0' : '*';
+            textBox_xacNhanMatKhau.PasswordChar = dk_hienmatkhau.Checked ? '\0' : '*';
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label_mkt2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox_email_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

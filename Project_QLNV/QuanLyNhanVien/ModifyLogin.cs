@@ -13,7 +13,6 @@ namespace QuanLyNhanVien
             
         }
 
-
         SqlCommand sqlCommand; // dùng để truy vấn các câu lệnh insert, delete, update,..
         SqlDataReader dataReader; // dùng để đọc dữ liệu trong bảng
 

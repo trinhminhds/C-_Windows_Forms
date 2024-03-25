@@ -58,5 +58,13 @@ namespace QuanLyNhanVien
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            DangNhap dangNhap = new DangNhap();
+            dangNhap.ShowDialog();
+            this.Close();  
+        }
     }
 }

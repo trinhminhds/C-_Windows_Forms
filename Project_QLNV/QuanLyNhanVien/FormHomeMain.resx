@@ -1,0 +1,1158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="home_tongLuong.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="home_tongLuong.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="home_tongLuong.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="home_tongLuong.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 13</value>
+  </data>
+  <data name="home_tongLuong.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 36</value>
+  </data>
+  <data name="home_tongLuong.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="home_tongLuong.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="home_tongLuong.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;home_tongLuong.Name" xml:space="preserve">
+    <value>home_tongLuong</value>
+  </data>
+  <data name="&gt;&gt;home_tongLuong.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;home_tongLuong.Parent" xml:space="preserve">
+    <value>panel7</value>
+  </data>
+  <data name="&gt;&gt;home_tongLuong.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label9.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 13.8pt</value>
+  </data>
+  <data name="label9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 109</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>224, 28</value>
+  </data>
+  <data name="label9.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Tổng Lương Công Ty</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>panel7</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pictureBox5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABGdBTUEAALGPC/xhBQAABGJJREFUaEPt
+        m22IFVUYx3d9BzFc9YMFZoktCi2aIpggIQpqYpkgpH4QQgTRQDHJQPtQG0QZQYUo+CVEMPAFDP2iKasJ
+        gi8RrCVoX0QyUitLsTI7/p5znnPZ2ZnbzO2e3Xt2mR/8Ye/ztvP3zszOnBmbSnoQY8xU9DE6hfaj9WiI
+        pvsXGHsD/Y268y16Usv6BxiajR6KO/gJ7UEn7SfHMdSs5X0fzByxtoz5AbWgyWgk2oQ8M7W874MZ+VaF
+        t9AC96M5hwag3+0nY17X8r6PGhJeQ7J7y7F8THNXkPCeLY4NNuxldBBdRrKLFpFno84Ygwbpzz9LAn5F
+        Wb1ZOovkbD9GZvQY/AI509bDpzqqArE/Xep/cR2N1lFhYfBjyG/cJbQNvVlQntU6rgKxay5lTqCs3izt
+        RA+Q8KGOCguD5djzTNZwIbRH2IGWddMNJNR0DFMvf9qEDg2FhcEL3XzL4xouhPbkUavhT1ybuaihsDC4
+        HsNnXFtV5KJksZYXgvqoDQ9GcsFRTSO0tDD0xGu4J2AbSsNBYXDdhumTXVtuEV9Bz6Oad2UPvVEfw4NQ
+        O/JXVZ77aCsarqWFoSdOw9Q2oy9tV3VuoVnaUgjqozW80rVY9qLpaDRqRV+hf5HwIxqmbblQG63hQ67F
+        nEepm3xiL9isY4mGc6E2WsPfuxbzgYZSkLvtSsxmDeVCbbSG5XZOaNdQCnJ+EWCdhnKhNlrDX7sW87mG
+        EhAfhfxx/KqGc6E2WsP+rqZTQwmIv+TSljYN50JttIZPuxZzREMJiD/n0pYFGs6F2ugNX0VPaLgCsY02
+        65iv4Vyojdaw/B32a9KbNGzhs1xq/mIzxnyHhmoqF2rjNCxQf9y12acMFVP8vMRGHdM0XAjqozYsvf5b
+        3qJhid90IXMB1fTkgfp4DQv0yLKu8L6GJOYX4lKLe3nQE/U3LCue/unDOxqW+B8uZN7VUGHoic8wdc+g
+        j5A/MckFxlxNS/6wjTrkbL4UDdT0f0JdPIbJy53QAeSvoATZfRPXynwei76RZBfkUnQtGqBlmZCPwzC5
+        F9EdW+W4h3ajZ7UkAXFZHJBnThdRV46iqgsD5BpvmPgE5M3eRW+jFk3nQq0s9ncgz05NpSAXheFdLm3+
+        QnKNLP8AtWoi6rpCMk7HJyAeheFOlw7Kch2fgHgUhuUhW2hW6PgExKMwLPe28wJqho5OQa7xhnsTtqE0
+        HBQGFzZMfhKS5dh6NFLHZUI+DsPktruSuvkNPaVjU5CLxrBcVYVALkVbdWwKctEYHoKydtFa9bSOzIR8
+        edIKCoOLfsPy3GgVWlOn5ujITMhHY/gLVxKEKTo2BbloDG9A/9iq+pD74qpv2pErj+GgMLg03EjYhtJw
+        UBg83823pJ4R9TZsw2duU8wFDYWFwbL04pFX9+XeN+utut6QbItfbNinmxgWBsvbOHnvTDaCRbqJ4WH4
+        eBSLaXnHy75h36PwS+Q/ZrSh7u8996bkBDpKN6mkOk1NjwBgPyDk/2gHrwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 39</value>
+  </data>
+  <data name="pictureBox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 54</value>
+  </data>
+  <data name="pictureBox5.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pictureBox5.Name" xml:space="preserve">
+    <value>pictureBox5</value>
+  </data>
+  <data name="&gt;&gt;pictureBox5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox5.Parent" xml:space="preserve">
+    <value>panel7</value>
+  </data>
+  <data name="&gt;&gt;pictureBox5.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 71</value>
+  </data>
+  <data name="panel7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>257, 143</value>
+  </data>
+  <data name="panel7.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;panel7.Name" xml:space="preserve">
+    <value>panel7</value>
+  </data>
+  <data name="&gt;&gt;panel7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel7.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel7.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Items" xml:space="preserve">
+    <value>Nhân viên</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Items1" xml:space="preserve">
+    <value>Kỹ sư</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Items2" xml:space="preserve">
+    <value>Chuyên gia nước ngoài</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Items3" xml:space="preserve">
+    <value>Công nhân </value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Items4" xml:space="preserve">
+    <value>Thực tập sinh</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Items5" xml:space="preserve">
+    <value>Lao động phổ thông </value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Items6" xml:space="preserve">
+    <value>Người làm bán thời gian</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Items7" xml:space="preserve">
+    <value>Cán bộ quản lý</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Items8" xml:space="preserve">
+    <value>Nhân sự thử việc</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>69, 69</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 24</value>
+  </data>
+  <data name="comboBox_home_luongTBBoPhan.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_luongTBBoPhan.Name" xml:space="preserve">
+    <value>comboBox_home_luongTBBoPhan</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_luongTBBoPhan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_luongTBBoPhan.Parent" xml:space="preserve">
+    <value>panel8</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_luongTBBoPhan.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="home_luongTrungTungBoPhan.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="home_luongTrungTungBoPhan.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="home_luongTrungTungBoPhan.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="home_luongTrungTungBoPhan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>185, 13</value>
+  </data>
+  <data name="home_luongTrungTungBoPhan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 36</value>
+  </data>
+  <data name="home_luongTrungTungBoPhan.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="home_luongTrungTungBoPhan.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;home_luongTrungTungBoPhan.Name" xml:space="preserve">
+    <value>home_luongTrungTungBoPhan</value>
+  </data>
+  <data name="&gt;&gt;home_luongTrungTungBoPhan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;home_luongTrungTungBoPhan.Parent" xml:space="preserve">
+    <value>panel8</value>
+  </data>
+  <data name="&gt;&gt;home_luongTrungTungBoPhan.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label11.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 10.8pt</value>
+  </data>
+  <data name="label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 115</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>262, 22</value>
+  </data>
+  <data name="label11.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Lương trung bình từng bộ phận</value>
+  </data>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
+  </data>
+  <data name="&gt;&gt;label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
+    <value>panel8</value>
+  </data>
+  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pictureBox6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABGdBTUEAALGPC/xhBQAABGJJREFUaEPt
+        m22IFVUYx3d9BzFc9YMFZoktCi2aIpggIQpqYpkgpH4QQgTRQDHJQPtQG0QZQYUo+CVEMPAFDP2iKasJ
+        gi8RrCVoX0QyUitLsTI7/p5znnPZ2ZnbzO2e3Xt2mR/8Ye/ztvP3zszOnBmbSnoQY8xU9DE6hfaj9WiI
+        pvsXGHsD/Y268y16Usv6BxiajR6KO/gJ7UEn7SfHMdSs5X0fzByxtoz5AbWgyWgk2oQ8M7W874MZ+VaF
+        t9AC96M5hwag3+0nY17X8r6PGhJeQ7J7y7F8THNXkPCeLY4NNuxldBBdRrKLFpFno84Ygwbpzz9LAn5F
+        Wb1ZOovkbD9GZvQY/AI509bDpzqqArE/Xep/cR2N1lFhYfBjyG/cJbQNvVlQntU6rgKxay5lTqCs3izt
+        RA+Q8KGOCguD5djzTNZwIbRH2IGWddMNJNR0DFMvf9qEDg2FhcEL3XzL4xouhPbkUavhT1ybuaihsDC4
+        HsNnXFtV5KJksZYXgvqoDQ9GcsFRTSO0tDD0xGu4J2AbSsNBYXDdhumTXVtuEV9Bz6Oad2UPvVEfw4NQ
+        O/JXVZ77aCsarqWFoSdOw9Q2oy9tV3VuoVnaUgjqozW80rVY9qLpaDRqRV+hf5HwIxqmbblQG63hQ67F
+        nEepm3xiL9isY4mGc6E2WsPfuxbzgYZSkLvtSsxmDeVCbbSG5XZOaNdQCnJ+EWCdhnKhNlrDX7sW87mG
+        EhAfhfxx/KqGc6E2WsP+rqZTQwmIv+TSljYN50JttIZPuxZzREMJiD/n0pYFGs6F2ugNX0VPaLgCsY02
+        65iv4Vyojdaw/B32a9KbNGzhs1xq/mIzxnyHhmoqF2rjNCxQf9y12acMFVP8vMRGHdM0XAjqozYsvf5b
+        3qJhid90IXMB1fTkgfp4DQv0yLKu8L6GJOYX4lKLe3nQE/U3LCue/unDOxqW+B8uZN7VUGHoic8wdc+g
+        j5A/MckFxlxNS/6wjTrkbL4UDdT0f0JdPIbJy53QAeSvoATZfRPXynwei76RZBfkUnQtGqBlmZCPwzC5
+        F9EdW+W4h3ajZ7UkAXFZHJBnThdRV46iqgsD5BpvmPgE5M3eRW+jFk3nQq0s9ncgz05NpSAXheFdLm3+
+        QnKNLP8AtWoi6rpCMk7HJyAeheFOlw7Kch2fgHgUhuUhW2hW6PgExKMwLPe28wJqho5OQa7xhnsTtqE0
+        HBQGFzZMfhKS5dh6NFLHZUI+DsPktruSuvkNPaVjU5CLxrBcVYVALkVbdWwKctEYHoKydtFa9bSOzIR8
+        edIKCoOLfsPy3GgVWlOn5ujITMhHY/gLVxKEKTo2BbloDG9A/9iq+pD74qpv2pErj+GgMLg03EjYhtJw
+        UBg83823pJ4R9TZsw2duU8wFDYWFwbL04pFX9+XeN+utut6QbItfbNinmxgWBsvbOHnvTDaCRbqJ4WH4
+        eBSLaXnHy75h36PwS+Q/ZrSh7u8996bkBDpKN6mkOk1NjwBgPyDk/2gHrwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 39</value>
+  </data>
+  <data name="pictureBox6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 54</value>
+  </data>
+  <data name="pictureBox6.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox6.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pictureBox6.Name" xml:space="preserve">
+    <value>pictureBox6</value>
+  </data>
+  <data name="&gt;&gt;pictureBox6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox6.Parent" xml:space="preserve">
+    <value>panel8</value>
+  </data>
+  <data name="&gt;&gt;pictureBox6.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="panel8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>713, 71</value>
+  </data>
+  <data name="panel8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>257, 143</value>
+  </data>
+  <data name="panel8.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;panel8.Name" xml:space="preserve">
+    <value>panel8</value>
+  </data>
+  <data name="&gt;&gt;panel8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel8.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel8.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Items" xml:space="preserve">
+    <value>Nhân viên</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Items1" xml:space="preserve">
+    <value>Kỹ sư</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Items2" xml:space="preserve">
+    <value>Chuyên gia nước ngoài</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Items3" xml:space="preserve">
+    <value>Công nhân </value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Items4" xml:space="preserve">
+    <value>Thực tập sinh</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Items5" xml:space="preserve">
+    <value>Lao động phổ thông </value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Items6" xml:space="preserve">
+    <value>Người làm bán thời gian</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Items7" xml:space="preserve">
+    <value>Cán bộ quản lý</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Items8" xml:space="preserve">
+    <value>Nhân sự thử việc</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>69, 69</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 24</value>
+  </data>
+  <data name="comboBox_home_tongLuongBoPhan.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_tongLuongBoPhan.Name" xml:space="preserve">
+    <value>comboBox_home_tongLuongBoPhan</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_tongLuongBoPhan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_tongLuongBoPhan.Parent" xml:space="preserve">
+    <value>panel6</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_tongLuongBoPhan.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="home_tongLuongTungBoPhan.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="home_tongLuongTungBoPhan.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="home_tongLuongTungBoPhan.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="home_tongLuongTungBoPhan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>184, 13</value>
+  </data>
+  <data name="home_tongLuongTungBoPhan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 36</value>
+  </data>
+  <data name="home_tongLuongTungBoPhan.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="home_tongLuongTungBoPhan.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;home_tongLuongTungBoPhan.Name" xml:space="preserve">
+    <value>home_tongLuongTungBoPhan</value>
+  </data>
+  <data name="&gt;&gt;home_tongLuongTungBoPhan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;home_tongLuongTungBoPhan.Parent" xml:space="preserve">
+    <value>panel6</value>
+  </data>
+  <data name="&gt;&gt;home_tongLuongTungBoPhan.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 112</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>236, 24</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Tổng lương từng bộ phận</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>panel6</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pictureBox4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABGdBTUEAALGPC/xhBQAABGJJREFUaEPt
+        m22IFVUYx3d9BzFc9YMFZoktCi2aIpggIQpqYpkgpH4QQgTRQDHJQPtQG0QZQYUo+CVEMPAFDP2iKasJ
+        gi8RrCVoX0QyUitLsTI7/p5znnPZ2ZnbzO2e3Xt2mR/8Ye/ztvP3zszOnBmbSnoQY8xU9DE6hfaj9WiI
+        pvsXGHsD/Y268y16Usv6BxiajR6KO/gJ7UEn7SfHMdSs5X0fzByxtoz5AbWgyWgk2oQ8M7W874MZ+VaF
+        t9AC96M5hwag3+0nY17X8r6PGhJeQ7J7y7F8THNXkPCeLY4NNuxldBBdRrKLFpFno84Ygwbpzz9LAn5F
+        Wb1ZOovkbD9GZvQY/AI509bDpzqqArE/Xep/cR2N1lFhYfBjyG/cJbQNvVlQntU6rgKxay5lTqCs3izt
+        RA+Q8KGOCguD5djzTNZwIbRH2IGWddMNJNR0DFMvf9qEDg2FhcEL3XzL4xouhPbkUavhT1ybuaihsDC4
+        HsNnXFtV5KJksZYXgvqoDQ9GcsFRTSO0tDD0xGu4J2AbSsNBYXDdhumTXVtuEV9Bz6Oad2UPvVEfw4NQ
+        O/JXVZ77aCsarqWFoSdOw9Q2oy9tV3VuoVnaUgjqozW80rVY9qLpaDRqRV+hf5HwIxqmbblQG63hQ67F
+        nEepm3xiL9isY4mGc6E2WsPfuxbzgYZSkLvtSsxmDeVCbbSG5XZOaNdQCnJ+EWCdhnKhNlrDX7sW87mG
+        EhAfhfxx/KqGc6E2WsP+rqZTQwmIv+TSljYN50JttIZPuxZzREMJiD/n0pYFGs6F2ugNX0VPaLgCsY02
+        65iv4Vyojdaw/B32a9KbNGzhs1xq/mIzxnyHhmoqF2rjNCxQf9y12acMFVP8vMRGHdM0XAjqozYsvf5b
+        3qJhid90IXMB1fTkgfp4DQv0yLKu8L6GJOYX4lKLe3nQE/U3LCue/unDOxqW+B8uZN7VUGHoic8wdc+g
+        j5A/MckFxlxNS/6wjTrkbL4UDdT0f0JdPIbJy53QAeSvoATZfRPXynwei76RZBfkUnQtGqBlmZCPwzC5
+        F9EdW+W4h3ajZ7UkAXFZHJBnThdRV46iqgsD5BpvmPgE5M3eRW+jFk3nQq0s9ncgz05NpSAXheFdLm3+
+        QnKNLP8AtWoi6rpCMk7HJyAeheFOlw7Kch2fgHgUhuUhW2hW6PgExKMwLPe28wJqho5OQa7xhnsTtqE0
+        HBQGFzZMfhKS5dh6NFLHZUI+DsPktruSuvkNPaVjU5CLxrBcVYVALkVbdWwKctEYHoKydtFa9bSOzIR8
+        edIKCoOLfsPy3GgVWlOn5ujITMhHY/gLVxKEKTo2BbloDG9A/9iq+pD74qpv2pErj+GgMLg03EjYhtJw
+        UBg83823pJ4R9TZsw2duU8wFDYWFwbL04pFX9+XeN+utut6QbItfbNinmxgWBsvbOHnvTDaCRbqJ4WH4
+        eBSLaXnHy75h36PwS+Q/ZrSh7u8996bkBDpKN6mkOk1NjwBgPyDk/2gHrwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 39</value>
+  </data>
+  <data name="pictureBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 54</value>
+  </data>
+  <data name="pictureBox4.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pictureBox4.Name" xml:space="preserve">
+    <value>pictureBox4</value>
+  </data>
+  <data name="&gt;&gt;pictureBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox4.Parent" xml:space="preserve">
+    <value>panel6</value>
+  </data>
+  <data name="&gt;&gt;pictureBox4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="panel6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>386, 71</value>
+  </data>
+  <data name="panel6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>257, 143</value>
+  </data>
+  <data name="panel6.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;panel6.Name" xml:space="preserve">
+    <value>panel6</value>
+  </data>
+  <data name="&gt;&gt;panel6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel6.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel6.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 259</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1015, 292</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABGdBTUEAALGPC/xhBQAABGJJREFUaEPt
+        m22IFVUYx3d9BzFc9YMFZoktCi2aIpggIQpqYpkgpH4QQgTRQDHJQPtQG0QZQYUo+CVEMPAFDP2iKasJ
+        gi8RrCVoX0QyUitLsTI7/p5znnPZ2ZnbzO2e3Xt2mR/8Ye/ztvP3zszOnBmbSnoQY8xU9DE6hfaj9WiI
+        pvsXGHsD/Y268y16Usv6BxiajR6KO/gJ7UEn7SfHMdSs5X0fzByxtoz5AbWgyWgk2oQ8M7W874MZ+VaF
+        t9AC96M5hwag3+0nY17X8r6PGhJeQ7J7y7F8THNXkPCeLY4NNuxldBBdRrKLFpFno84Ygwbpzz9LAn5F
+        Wb1ZOovkbD9GZvQY/AI509bDpzqqArE/Xep/cR2N1lFhYfBjyG/cJbQNvVlQntU6rgKxay5lTqCs3izt
+        RA+Q8KGOCguD5djzTNZwIbRH2IGWddMNJNR0DFMvf9qEDg2FhcEL3XzL4xouhPbkUavhT1ybuaihsDC4
+        HsNnXFtV5KJksZYXgvqoDQ9GcsFRTSO0tDD0xGu4J2AbSsNBYXDdhumTXVtuEV9Bz6Oad2UPvVEfw4NQ
+        O/JXVZ77aCsarqWFoSdOw9Q2oy9tV3VuoVnaUgjqozW80rVY9qLpaDRqRV+hf5HwIxqmbblQG63hQ67F
+        nEepm3xiL9isY4mGc6E2WsPfuxbzgYZSkLvtSsxmDeVCbbSG5XZOaNdQCnJ+EWCdhnKhNlrDX7sW87mG
+        EhAfhfxx/KqGc6E2WsP+rqZTQwmIv+TSljYN50JttIZPuxZzREMJiD/n0pYFGs6F2ugNX0VPaLgCsY02
+        65iv4Vyojdaw/B32a9KbNGzhs1xq/mIzxnyHhmoqF2rjNCxQf9y12acMFVP8vMRGHdM0XAjqozYsvf5b
+        3qJhid90IXMB1fTkgfp4DQv0yLKu8L6GJOYX4lKLe3nQE/U3LCue/unDOxqW+B8uZN7VUGHoic8wdc+g
+        j5A/MckFxlxNS/6wjTrkbL4UDdT0f0JdPIbJy53QAeSvoATZfRPXynwei76RZBfkUnQtGqBlmZCPwzC5
+        F9EdW+W4h3ajZ7UkAXFZHJBnThdRV46iqgsD5BpvmPgE5M3eRW+jFk3nQq0s9ncgz05NpSAXheFdLm3+
+        QnKNLP8AtWoi6rpCMk7HJyAeheFOlw7Kch2fgHgUhuUhW2hW6PgExKMwLPe28wJqho5OQa7xhnsTtqE0
+        HBQGFzZMfhKS5dh6NFLHZUI+DsPktruSuvkNPaVjU5CLxrBcVYVALkVbdWwKctEYHoKydtFa9bSOzIR8
+        edIKCoOLfsPy3GgVWlOn5ujITMhHY/gLVxKEKTo2BbloDG9A/9iq+pD74qpv2pErj+GgMLg03EjYhtJw
+        UBg83823pJ4R9TZsw2duU8wFDYWFwbL04pFX9+XeN+utut6QbItfbNinmxgWBsvbOHnvTDaCRbqJ4WH4
+        eBSLaXnHy75h36PwS+Q/ZrSh7u8996bkBDpKN6mkOk1NjwBgPyDk/2gHrwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 39</value>
+  </data>
+  <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 54</value>
+  </data>
+  <data name="pictureBox2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
+    <value>pictureBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
+    <value>panel5</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="home_doTuoiTrungBinh.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="home_doTuoiTrungBinh.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="home_doTuoiTrungBinh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="home_doTuoiTrungBinh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>183, 13</value>
+  </data>
+  <data name="home_doTuoiTrungBinh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 36</value>
+  </data>
+  <data name="home_doTuoiTrungBinh.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="home_doTuoiTrungBinh.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;home_doTuoiTrungBinh.Name" xml:space="preserve">
+    <value>home_doTuoiTrungBinh</value>
+  </data>
+  <data name="&gt;&gt;home_doTuoiTrungBinh.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;home_doTuoiTrungBinh.Parent" xml:space="preserve">
+    <value>panel5</value>
+  </data>
+  <data name="&gt;&gt;home_doTuoiTrungBinh.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 113</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 24</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Độ tuổi trung bình của công ty</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>panel5</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>715, 39</value>
+  </data>
+  <data name="panel5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>258, 143</value>
+  </data>
+  <data name="panel5.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;panel5.Name" xml:space="preserve">
+    <value>panel5</value>
+  </data>
+  <data name="&gt;&gt;panel5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel5.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel5.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Items" xml:space="preserve">
+    <value>Nhân viên</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Items1" xml:space="preserve">
+    <value>Chuyên gia nước ngoài</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Items2" xml:space="preserve">
+    <value>Người làm bán thời gian</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Items3" xml:space="preserve">
+    <value>Nhân sự thử việc</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Items4" xml:space="preserve">
+    <value>Công nhân</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Items5" xml:space="preserve">
+    <value>Cán bộ quản lý</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Items6" xml:space="preserve">
+    <value>Thực tập sinh</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Items7" xml:space="preserve">
+    <value>Lao động phổ thông</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>87, 69</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 24</value>
+  </data>
+  <data name="comboBox_home_tongNhanVienBoPhan.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_tongNhanVienBoPhan.Name" xml:space="preserve">
+    <value>comboBox_home_tongNhanVienBoPhan</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_tongNhanVienBoPhan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_tongNhanVienBoPhan.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;comboBox_home_tongNhanVienBoPhan.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pictureBox7.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABGdBTUEAALGPC/xhBQAABGJJREFUaEPt
+        m22IFVUYx3d9BzFc9YMFZoktCi2aIpggIQpqYpkgpH4QQgTRQDHJQPtQG0QZQYUo+CVEMPAFDP2iKasJ
+        gi8RrCVoX0QyUitLsTI7/p5znnPZ2ZnbzO2e3Xt2mR/8Ye/ztvP3zszOnBmbSnoQY8xU9DE6hfaj9WiI
+        pvsXGHsD/Y268y16Usv6BxiajR6KO/gJ7UEn7SfHMdSs5X0fzByxtoz5AbWgyWgk2oQ8M7W874MZ+VaF
+        t9AC96M5hwag3+0nY17X8r6PGhJeQ7J7y7F8THNXkPCeLY4NNuxldBBdRrKLFpFno84Ygwbpzz9LAn5F
+        Wb1ZOovkbD9GZvQY/AI509bDpzqqArE/Xep/cR2N1lFhYfBjyG/cJbQNvVlQntU6rgKxay5lTqCs3izt
+        RA+Q8KGOCguD5djzTNZwIbRH2IGWddMNJNR0DFMvf9qEDg2FhcEL3XzL4xouhPbkUavhT1ybuaihsDC4
+        HsNnXFtV5KJksZYXgvqoDQ9GcsFRTSO0tDD0xGu4J2AbSsNBYXDdhumTXVtuEV9Bz6Oad2UPvVEfw4NQ
+        O/JXVZ77aCsarqWFoSdOw9Q2oy9tV3VuoVnaUgjqozW80rVY9qLpaDRqRV+hf5HwIxqmbblQG63hQ67F
+        nEepm3xiL9isY4mGc6E2WsPfuxbzgYZSkLvtSsxmDeVCbbSG5XZOaNdQCnJ+EWCdhnKhNlrDX7sW87mG
+        EhAfhfxx/KqGc6E2WsP+rqZTQwmIv+TSljYN50JttIZPuxZzREMJiD/n0pYFGs6F2ugNX0VPaLgCsY02
+        65iv4Vyojdaw/B32a9KbNGzhs1xq/mIzxnyHhmoqF2rjNCxQf9y12acMFVP8vMRGHdM0XAjqozYsvf5b
+        3qJhid90IXMB1fTkgfp4DQv0yLKu8L6GJOYX4lKLe3nQE/U3LCue/unDOxqW+B8uZN7VUGHoic8wdc+g
+        j5A/MckFxlxNS/6wjTrkbL4UDdT0f0JdPIbJy53QAeSvoATZfRPXynwei76RZBfkUnQtGqBlmZCPwzC5
+        F9EdW+W4h3ajZ7UkAXFZHJBnThdRV46iqgsD5BpvmPgE5M3eRW+jFk3nQq0s9ncgz05NpSAXheFdLm3+
+        QnKNLP8AtWoi6rpCMk7HJyAeheFOlw7Kch2fgHgUhuUhW2hW6PgExKMwLPe28wJqho5OQa7xhnsTtqE0
+        HBQGFzZMfhKS5dh6NFLHZUI+DsPktruSuvkNPaVjU5CLxrBcVYVALkVbdWwKctEYHoKydtFa9bSOzIR8
+        edIKCoOLfsPy3GgVWlOn5ujITMhHY/gLVxKEKTo2BbloDG9A/9iq+pD74qpv2pErj+GgMLg03EjYhtJw
+        UBg83823pJ4R9TZsw2duU8wFDYWFwbL04pFX9+XeN+utut6QbItfbNinmxgWBsvbOHnvTDaCRbqJ4WH4
+        eBSLaXnHy75h36PwS+Q/ZrSh7u8996bkBDpKN6mkOk1NjwBgPyDk/2gHrwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 39</value>
+  </data>
+  <data name="pictureBox7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 54</value>
+  </data>
+  <data name="pictureBox7.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox7.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;pictureBox7.Name" xml:space="preserve">
+    <value>pictureBox7</value>
+  </data>
+  <data name="&gt;&gt;pictureBox7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox7.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;pictureBox7.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="home_tongNhanVienBoPhan.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="home_tongNhanVienBoPhan.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="home_tongNhanVienBoPhan.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="home_tongNhanVienBoPhan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>184, 13</value>
+  </data>
+  <data name="home_tongNhanVienBoPhan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 36</value>
+  </data>
+  <data name="home_tongNhanVienBoPhan.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="home_tongNhanVienBoPhan.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;home_tongNhanVienBoPhan.Name" xml:space="preserve">
+    <value>home_tongNhanVienBoPhan</value>
+  </data>
+  <data name="&gt;&gt;home_tongNhanVienBoPhan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;home_tongNhanVienBoPhan.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;home_tongNhanVienBoPhan.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 12pt</value>
+  </data>
+  <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 113</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>234, 24</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Số nhân sự từng bộ phận</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="panel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>386, 39</value>
+  </data>
+  <data name="panel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>257, 143</value>
+  </data>
+  <data name="panel4.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;panel4.Name" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;panel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel4.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="home_tongNhanVien.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="home_tongNhanVien.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt</value>
+  </data>
+  <data name="home_tongNhanVien.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="home_tongNhanVien.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 13</value>
+  </data>
+  <data name="home_tongNhanVien.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 36</value>
+  </data>
+  <data name="home_tongNhanVien.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="home_tongNhanVien.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;home_tongNhanVien.Name" xml:space="preserve">
+    <value>home_tongNhanVien</value>
+  </data>
+  <data name="&gt;&gt;home_tongNhanVien.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;home_tongNhanVien.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;home_tongNhanVien.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 13.8pt</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 109</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>174, 28</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Tổng Nhân Viên</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABGdBTUEAALGPC/xhBQAABGJJREFUaEPt
+        m22IFVUYx3d9BzFc9YMFZoktCi2aIpggIQpqYpkgpH4QQgTRQDHJQPtQG0QZQYUo+CVEMPAFDP2iKasJ
+        gi8RrCVoX0QyUitLsTI7/p5znnPZ2ZnbzO2e3Xt2mR/8Ye/ztvP3zszOnBmbSnoQY8xU9DE6hfaj9WiI
+        pvsXGHsD/Y268y16Usv6BxiajR6KO/gJ7UEn7SfHMdSs5X0fzByxtoz5AbWgyWgk2oQ8M7W874MZ+VaF
+        t9AC96M5hwag3+0nY17X8r6PGhJeQ7J7y7F8THNXkPCeLY4NNuxldBBdRrKLFpFno84Ygwbpzz9LAn5F
+        Wb1ZOovkbD9GZvQY/AI509bDpzqqArE/Xep/cR2N1lFhYfBjyG/cJbQNvVlQntU6rgKxay5lTqCs3izt
+        RA+Q8KGOCguD5djzTNZwIbRH2IGWddMNJNR0DFMvf9qEDg2FhcEL3XzL4xouhPbkUavhT1ybuaihsDC4
+        HsNnXFtV5KJksZYXgvqoDQ9GcsFRTSO0tDD0xGu4J2AbSsNBYXDdhumTXVtuEV9Bz6Oad2UPvVEfw4NQ
+        O/JXVZ77aCsarqWFoSdOw9Q2oy9tV3VuoVnaUgjqozW80rVY9qLpaDRqRV+hf5HwIxqmbblQG63hQ67F
+        nEepm3xiL9isY4mGc6E2WsPfuxbzgYZSkLvtSsxmDeVCbbSG5XZOaNdQCnJ+EWCdhnKhNlrDX7sW87mG
+        EhAfhfxx/KqGc6E2WsP+rqZTQwmIv+TSljYN50JttIZPuxZzREMJiD/n0pYFGs6F2ugNX0VPaLgCsY02
+        65iv4Vyojdaw/B32a9KbNGzhs1xq/mIzxnyHhmoqF2rjNCxQf9y12acMFVP8vMRGHdM0XAjqozYsvf5b
+        3qJhid90IXMB1fTkgfp4DQv0yLKu8L6GJOYX4lKLe3nQE/U3LCue/unDOxqW+B8uZN7VUGHoic8wdc+g
+        j5A/MckFxlxNS/6wjTrkbL4UDdT0f0JdPIbJy53QAeSvoATZfRPXynwei76RZBfkUnQtGqBlmZCPwzC5
+        F9EdW+W4h3ajZ7UkAXFZHJBnThdRV46iqgsD5BpvmPgE5M3eRW+jFk3nQq0s9ncgz05NpSAXheFdLm3+
+        QnKNLP8AtWoi6rpCMk7HJyAeheFOlw7Kch2fgHgUhuUhW2hW6PgExKMwLPe28wJqho5OQa7xhnsTtqE0
+        HBQGFzZMfhKS5dh6NFLHZUI+DsPktruSuvkNPaVjU5CLxrBcVYVALkVbdWwKctEYHoKydtFa9bSOzIR8
+        edIKCoOLfsPy3GgVWlOn5ujITMhHY/gLVxKEKTo2BbloDG9A/9iq+pD74qpv2pErj+GgMLg03EjYhtJw
+        UBg83823pJ4R9TZsw2duU8wFDYWFwbL04pFX9+XeN+utut6QbItfbNinmxgWBsvbOHnvTDaCRbqJ4WH4
+        eBSLaXnHy75h36PwS+Q/ZrSh7u8996bkBDpKN6mkOk1NjwBgPyDk/2gHrwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 39</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 54</value>
+  </data>
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>49, 39</value>
+  </data>
+  <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>257, 143</value>
+  </data>
+  <data name="panel3.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel3.Name" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;panel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1015, 257</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1015, 551</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormHomeMain</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

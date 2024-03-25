@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|d:\\c_shap\\project_qlnv\\quanlynhanvien\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\formhomemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:formhomemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|d:\\c_shap\\project_qlnv\\quanlynhanvien\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\danngnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:danngnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|d:\\c_shap\\project_qlnv\\quanlynhanvien\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|d:\\c_shap\\project_qlnv\\quanlynhanvien\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\formsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:formsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\formsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:formsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|d:\\c_shap\\project_qlnv\\quanlynhanvien\\formhomemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:formhomemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\addnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:addnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\addnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F7B7A94-7F59-4896-AB0E-413FAD2F657F}|QuanLyNhanVien.csproj|solutionrelative:addnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,61 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "addNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\addNhanVien.cs",
+              "RelativeDocumentMoniker": "addNhanVien.cs",
+              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\addNhanVien.cs [Design]",
+              "RelativeToolTip": "addNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:33:58.699Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuenMatKhau.cs",
-              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\QuenMatKhau.cs",
-              "RelativeDocumentMoniker": "QuenMatKhau.cs",
-              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\QuenMatKhau.cs",
-              "RelativeToolTip": "QuenMatKhau.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:20:13.187Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QuenMatKhau.cs [Design]",
-              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\QuenMatKhau.cs",
-              "RelativeDocumentMoniker": "QuenMatKhau.cs",
-              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\QuenMatKhau.cs [Design]",
-              "RelativeToolTip": "QuenMatKhau.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "FormHomeMain.cs [Design]",
+              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\FormHomeMain.cs",
+              "RelativeDocumentMoniker": "FormHomeMain.cs",
+              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\FormHomeMain.cs [Design]",
+              "RelativeToolTip": "FormHomeMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:19:41.957Z",
+              "WhenOpened": "2024-03-13T02:36:20.99Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DangKy.cs",
-              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\DangKy.cs",
-              "RelativeDocumentMoniker": "DangKy.cs",
-              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\DangKy.cs",
-              "RelativeToolTip": "DangKy.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADIAAABAAAAA",
+              "DocumentIndex": 7,
+              "Title": "addNhanVien.cs",
+              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\addNhanVien.cs",
+              "RelativeDocumentMoniker": "addNhanVien.cs",
+              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\addNhanVien.cs",
+              "RelativeToolTip": "addNhanVien.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwDYAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:15:50.771Z",
+              "WhenOpened": "2024-03-13T12:03:53.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:36:07.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanngNhap.cs [Design]",
+              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\DanngNhap.cs",
+              "RelativeDocumentMoniker": "DanngNhap.cs",
+              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\DanngNhap.cs [Design]",
+              "RelativeToolTip": "DanngNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:08:12.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormHomeMain.cs",
+              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\FormHomeMain.cs",
+              "RelativeDocumentMoniker": "FormHomeMain.cs",
+              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\FormHomeMain.cs",
+              "RelativeToolTip": "FormHomeMain.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:51:41.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DangKy.cs [Design]",
-              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\DangKy.cs",
-              "RelativeDocumentMoniker": "DangKy.cs",
-              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\DangKy.cs [Design]",
-              "RelativeToolTip": "DangKy.cs [Design]",
+              "Title": "FormSalary.cs [Design]",
+              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\FormSalary.cs",
+              "RelativeDocumentMoniker": "FormSalary.cs",
+              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\FormSalary.cs [Design]",
+              "RelativeToolTip": "FormSalary.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:15:35.926Z",
+              "WhenOpened": "2024-03-20T10:53:46.345Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\Modify.cs",
+              "RelativeDocumentMoniker": "Modify.cs",
+              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\Modify.cs",
+              "RelativeToolTip": "Modify.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAQwF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:03:39.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSalary.cs",
+              "DocumentMoniker": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\FormSalary.cs",
+              "RelativeDocumentMoniker": "FormSalary.cs",
+              "ToolTip": "D:\\C_Shap\\Project_QLNV\\QuanLyNhanVien\\FormSalary.cs",
+              "RelativeToolTip": "FormSalary.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAUwKQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:59:55.354Z",
+              "EditorCaption": ""
             }
           ]
         }

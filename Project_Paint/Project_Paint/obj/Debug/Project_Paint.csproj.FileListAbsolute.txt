@@ -1,0 +1,10 @@
+D:\C_Shap\Project_Paint\Project_Paint\bin\Debug\Project_Paint.exe.config
+D:\C_Shap\Project_Paint\Project_Paint\bin\Debug\Project_Paint.exe
+D:\C_Shap\Project_Paint\Project_Paint\bin\Debug\Project_Paint.pdb
+D:\C_Shap\Project_Paint\Project_Paint\obj\Debug\Project_Paint.csproj.AssemblyReference.cache
+D:\C_Shap\Project_Paint\Project_Paint\obj\Debug\Project_Paint.Form1.resources
+D:\C_Shap\Project_Paint\Project_Paint\obj\Debug\Project_Paint.Properties.Resources.resources
+D:\C_Shap\Project_Paint\Project_Paint\obj\Debug\Project_Paint.csproj.GenerateResource.cache
+D:\C_Shap\Project_Paint\Project_Paint\obj\Debug\Project_Paint.csproj.CoreCompileInputs.cache
+D:\C_Shap\Project_Paint\Project_Paint\obj\Debug\Project_Paint.exe
+D:\C_Shap\Project_Paint\Project_Paint\obj\Debug\Project_Paint.pdb

@@ -9,7 +9,7 @@ namespace QuanLyNhanVien
 {
     class Connection
     {
-        private static string stringConnection = @"Data Source=DESKTOP-PKBG0MG;Initial Catalog=qlnv;Integrated Security=True";
+        private static string stringConnection = @"Data Source=DESKTOP-PKBG0MG;Initial Catalog=QLNHANVIENJAVA;Integrated Security=True";
         public static SqlConnection getConnection()
         {
             return new SqlConnection(stringConnection);
