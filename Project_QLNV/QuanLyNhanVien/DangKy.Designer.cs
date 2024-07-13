@@ -42,9 +42,9 @@
             this.label_mkt2 = new System.Windows.Forms.Label();
             this.dk_hienmatkhau = new System.Windows.Forms.CheckBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.dk_dangNhap = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -69,7 +69,7 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(495, 155);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(137, 25);
+            this.label2.Size = new System.Drawing.Size(109, 20);
             this.label2.TabIndex = 2;
             this.label2.Text = "Tên tài khoản:";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -80,7 +80,7 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(495, 220);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(99, 25);
+            this.label3.Size = new System.Drawing.Size(79, 20);
             this.label3.TabIndex = 3;
             this.label3.Text = "Mật khẩu:";
             this.label3.Click += new System.EventHandler(this.label3_Click);
@@ -89,9 +89,9 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(495, 276);
+            this.label4.Location = new System.Drawing.Point(481, 277);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(187, 25);
+            this.label4.Size = new System.Drawing.Size(151, 20);
             this.label4.TabIndex = 4;
             this.label4.Text = "Xác nhận mật khẩu:";
             // 
@@ -101,7 +101,7 @@
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(495, 375);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(66, 25);
+            this.label5.Size = new System.Drawing.Size(52, 20);
             this.label5.TabIndex = 5;
             this.label5.Text = "Email:";
             this.label5.Click += new System.EventHandler(this.label5_Click);
@@ -163,7 +163,7 @@
             this.label_mkt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_mkt2.Location = new System.Drawing.Point(495, 432);
             this.label_mkt2.Name = "label_mkt2";
-            this.label_mkt2.Size = new System.Drawing.Size(132, 25);
+            this.label_mkt2.Size = new System.Drawing.Size(106, 20);
             this.label_mkt2.TabIndex = 11;
             this.label_mkt2.Text = "Số điện thoại:";
             this.label_mkt2.Click += new System.EventHandler(this.label_mkt2_Click);
@@ -174,7 +174,7 @@
             this.dk_hienmatkhau.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dk_hienmatkhau.Location = new System.Drawing.Point(824, 324);
             this.dk_hienmatkhau.Name = "dk_hienmatkhau";
-            this.dk_hienmatkhau.Size = new System.Drawing.Size(147, 26);
+            this.dk_hienmatkhau.Size = new System.Drawing.Size(122, 22);
             this.dk_hienmatkhau.TabIndex = 13;
             this.dk_hienmatkhau.Text = "Hiện mật khẩu";
             this.dk_hienmatkhau.UseVisualStyleBackColor = true;
@@ -192,26 +192,6 @@
             this.panel1.Size = new System.Drawing.Size(464, 670);
             this.panel1.TabIndex = 14;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(171, 167);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(106, 100);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Transparent;
-            this.label1.Location = new System.Drawing.Point(56, 300);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(337, 36);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "QUẢN LÝ NHÂN VIÊN";
-            // 
             // dk_dangNhap
             // 
             this.dk_dangNhap.BackColor = System.Drawing.Color.Teal;
@@ -225,6 +205,26 @@
             this.dk_dangNhap.UseVisualStyleBackColor = false;
             this.dk_dangNhap.Click += new System.EventHandler(this.dk_dangNhap_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Transparent;
+            this.label1.Location = new System.Drawing.Point(84, 302);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(269, 29);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "QUẢN LÝ NHÂN VIÊN";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(171, 167);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(106, 100);
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
             // label6
             // 
             this.label6.AutoSize = true;
@@ -233,7 +233,7 @@
             this.label6.ForeColor = System.Drawing.Color.LightSeaGreen;
             this.label6.Location = new System.Drawing.Point(657, 44);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(177, 39);
+            this.label6.Size = new System.Drawing.Size(143, 31);
             this.label6.TabIndex = 15;
             this.label6.Text = "ĐĂNG KÝ";
             // 

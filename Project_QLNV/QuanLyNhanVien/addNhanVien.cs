@@ -47,7 +47,6 @@ namespace QuanLyNhanVien
 
             if (!string.IsNullOrEmpty(timKiem))
             {
-
                 DataTable dataTable = (DataTable)addNhanVien_dataGridView.DataSource;
                 DataView dataView = dataTable.DefaultView;
                 string locTimKiem = string.Format("manhanvien LIKE '%{0}%' OR ten LIKE '%{0}%' OR ho LIKE '%{0}%' OR gioiTinh LIKE '%{0}%' OR diachi LIKE '%{0}%' OR chucvu LIKE '%{0}%'", timKiem);

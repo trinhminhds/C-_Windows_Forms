@@ -33,6 +33,7 @@ namespace QuanLyNhanVien
             this.chucVu = chucVu;
         }
 
+
         public string Manv { get => manv; set => manv = value; }
         public string Ten { get => ten; set => ten = value; }
         public string Ho { get => ho; set => ho = value; }

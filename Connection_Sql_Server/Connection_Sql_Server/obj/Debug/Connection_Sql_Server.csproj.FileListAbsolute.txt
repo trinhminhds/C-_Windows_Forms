@@ -1,0 +1,10 @@
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\bin\Debug\Connection_Sql_Server.exe.config
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\bin\Debug\Connection_Sql_Server.exe
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\bin\Debug\Connection_Sql_Server.pdb
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\obj\Debug\Connection_Sql_Server.csproj.AssemblyReference.cache
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\obj\Debug\Connection_Sql_Server.Form1.resources
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\obj\Debug\Connection_Sql_Server.Properties.Resources.resources
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\obj\Debug\Connection_Sql_Server.csproj.GenerateResource.cache
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\obj\Debug\Connection_Sql_Server.csproj.CoreCompileInputs.cache
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\obj\Debug\Connection_Sql_Server.exe
+D:\C_Shap\Connection_Sql_Server\Connection_Sql_Server\obj\Debug\Connection_Sql_Server.pdb

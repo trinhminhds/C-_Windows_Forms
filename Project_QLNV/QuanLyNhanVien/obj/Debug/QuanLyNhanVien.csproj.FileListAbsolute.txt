@@ -15,7 +15,6 @@ D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.FormHome.resource
 D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.QuenMatKhau.resources
 D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.FormHomeMain.resources
 D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.FormSalary.resources
-D:\C_Shap\Project_QLNV\QuanLyNhanVien\bin\Debug\QLNV_CShap.exe
 D:\C_Shap\Project_QLNV\QuanLyNhanVien\bin\Debug\QLNV_CShap.pdb
 D:\C_Shap\Project_QLNV\QuanLyNhanVien\bin\Debug\QLNV_CShap.exe.config
 D:\C_Shap\Project_QLNV\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.FormAddEmployees.resources

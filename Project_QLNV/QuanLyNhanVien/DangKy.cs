@@ -94,6 +94,9 @@ namespace QuanLyNhanVien
                 modifyLogin.Command(query);
                 if (MessageBox.Show("Đăng ký thành công!,Bạn có muốn đăng nhập không ?", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
                 {
+                    this.Hide();
+                    DangNhap dangNhap = new DangNhap();
+                    dangNhap.ShowDialog();
                     this.Close();
                 }
 
